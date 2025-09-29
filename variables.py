@@ -1,3 +1,3 @@
-x = 5 
-y = "Hello World"
-print(y,x) 
+#Integers
+a = 2
+print(2)
