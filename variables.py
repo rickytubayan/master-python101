@@ -5,3 +5,7 @@ print(2)
 #Integer
 b = 21313131313131
 print(b) 
+
+#Floating Point
+pi = 3.14
+print(pi)
