@@ -21,3 +21,7 @@ print(name)
 #Boolean
 r = True
 print(r) 
+
+#Empty Value or Null Data Type
+x = None
+print(x)
