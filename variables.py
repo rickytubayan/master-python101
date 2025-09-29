@@ -17,3 +17,7 @@ print(c)
 #String
 name = 'Master Sensei'
 print(name)
+
+#Boolean
+r = True
+print(r) 
