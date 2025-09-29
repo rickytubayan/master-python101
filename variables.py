@@ -13,3 +13,7 @@ print(pi)
 #String
 c = 'A'
 print(c)
+
+#String
+name = 'Master Sensei'
+print(name)
