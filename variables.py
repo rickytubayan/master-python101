@@ -9,3 +9,7 @@ print(b)
 #Floating Point
 pi = 3.14
 print(pi)
+
+#String
+c = 'A'
+print(c)
