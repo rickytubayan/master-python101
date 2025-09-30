@@ -15,3 +15,9 @@ print(a, b, c)
 a, b, _ = 1, 2, 3 
 
 print(a,b)
+
+#Multiple Variables Single Value
+
+a = b = c = 10
+
+print (a,b,c)
