@@ -14,3 +14,7 @@ print(type(pi))
 #Checking Boolean (True or False)
 q = False
 print(type(q))
+
+#Checking of Nonetype of Null
+z = None
+print(type(z))
