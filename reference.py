@@ -31,3 +31,9 @@ print (a,b,c)
 b = 100
 
 print (a,b,c)
+
+#Immutable types (int,str,tuple)
+
+x = v = [7, 8, 9]
+x = [13, 8, 9]
+print(v)
