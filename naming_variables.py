@@ -20,3 +20,6 @@ has_1_in_it = True
 
 print(has_1_in_it)
 
+"""
+Python Variable Names Are Case-sensitive X is X and x is x if they have different values they have different outputs 
+"""
