@@ -4,3 +4,8 @@
 
 a_tool = 'an_electric_lawnmower'
 
+#Multiple Variable Assignment
+
+a, b, c = 1, 2, 3
+
+print(a, b, c)
