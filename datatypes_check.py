@@ -6,3 +6,7 @@ print(type(x))
 #Check Datatypes String
 s = 'Your Name'
 print(type(s))
+
+#Check Floating Point
+pi = 3.14
+print(type(pi))
