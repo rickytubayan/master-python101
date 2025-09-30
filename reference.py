@@ -21,3 +21,13 @@ print(a,b)
 a = b = c = 10
 
 print (a,b,c)
+
+#Cascade Values Assignment
+
+a = b = c = 20
+
+print (a,b,c)
+
+b = 100
+
+print (a,b,c)
