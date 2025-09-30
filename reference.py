@@ -9,3 +9,9 @@ a_tool = 'an_electric_lawnmower'
 a, b, c = 1, 2, 3
 
 print(a, b, c)
+
+#Unwanted Values Assignment
+
+a, b, _ = 1, 2, 3 
+
+print(a,b)
