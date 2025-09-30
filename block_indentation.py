@@ -14,3 +14,8 @@ else:
 
 if a > b: print(a)
 else: print(b)
+
+#Pass Does Nothing
+#Example of Empty Block for Future Implementation 
+def using_pass_does_nothing():
+    pass
