@@ -37,3 +37,9 @@ print (a,b,c)
 x = v = [7, 8, 9]
 x = [13, 8, 9]
 print(v)
+
+#Modifying Object Refers To Assigned Values
+
+x = v = [7, 8, 9]
+x[0] = 50
+print(x)
