@@ -28,8 +28,8 @@ print(x)
 
 #Variable assignment works from left to right.
 
- 0 = x 
- print(0)
+0 = x 
+print(0)
 
 #SyntaxError: cannot assign to literal here. Maybe you meant '==' instead of '='?
 
