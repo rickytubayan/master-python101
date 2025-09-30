@@ -13,3 +13,10 @@ $x = False
 """
 Invalid Variable Naming Will Output Syntax Errors
 """
+
+#Still Valid 
+#Variables With Underscores and Numbers is Still Valid
+has_1_in_it = True
+
+print(has_1_in_it)
+
