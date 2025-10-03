@@ -4,9 +4,10 @@ a = '123'
 b = int(a)
 print(b)
 
-#String to Float
-
+#String to Float c and d
+#Float to Integer d to e
 c = '123.456'
 d = float(c)
-print(d)
+e = int(d)
+print(e)
 
