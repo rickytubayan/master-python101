@@ -9,3 +9,6 @@ print(names)
 #List Remove
 names.remove('Sierra')
 print(names)
+
+#Length of List
+print(len(names))
