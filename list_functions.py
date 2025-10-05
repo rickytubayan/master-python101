@@ -16,3 +16,7 @@ print(len(names))
 #Count Occurrence Of Items In List
 c = [1,1,3,3,3,3,5,4,7,8,8,9] 
 print(c.count(3))
+
+#Reverse a List
+r = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(r[::-1])
