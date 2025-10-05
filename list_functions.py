@@ -20,3 +20,7 @@ print(c.count(3))
 #Reverse a List
 r = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 print(r[::-1])
+
+#Remove from List [-1]
+p = [1,2,3,4]
+print(p.pop())
