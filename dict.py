@@ -17,3 +17,7 @@ state_capitals = {
 #Value Refers To Key
 ca_capital = state_capitals['California']
 print(ca_capital)
+
+#Loops Using Values As Key 
+for k in state_capitals.keys():
+ print('{} is the capital of {}'.format(state_capitals[k], k))
